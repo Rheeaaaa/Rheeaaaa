@@ -1,6 +1,6 @@
 - 👋 Hey, I’m Rhea
 - 👀 I’m interested in Web Developing
-- 🌱 I’m currently learning Java Script
+- 🌱 I’m currently learning JavaScript
 - 📫 How to reach me: Riyasinghhh1101@gmail.com
 
 <!---
