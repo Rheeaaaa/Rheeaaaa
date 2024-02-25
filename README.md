@@ -1,5 +1,5 @@
 - 👋 Hey, I’m Rhea
-- 👀 I’m interested in Web Developing
+- 👀 Interested in Web Developing UX/UI
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me: Riyasinghhh1101@gmail.com
 
