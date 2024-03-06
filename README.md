@@ -1,7 +1,7 @@
 - 👋 Hey, I’m Rhea
 - 👀 Interested in Web Developing UX/UI
 - 🌱 I’m currently learning JavaScript
-- 📫 How to reach me: Riyasinghhh1101@gmail.com
+- 📫 How to reach me: Riyasinghh1101@gmail.com
 
 <!---
 Rheeaaaa/Rheeaaaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
