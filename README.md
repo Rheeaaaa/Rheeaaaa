@@ -1,6 +1,4 @@
 - 👋 Hey, I’m Rhea
-- 👀 Interested in Web Developing UX/UI
-- 🌱 I’m currently learning JavaScript
 - 📫 How to reach me: Riyasinghh1101@gmail.com
 
 <!---
